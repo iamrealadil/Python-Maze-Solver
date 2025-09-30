@@ -2,6 +2,8 @@
 
 A Python program that solves mazes using Depth-First Search (DFS) with a stack and Breadth-First Search (BFS) with a queue. It tracks explored states, finds the path from start to goal, and visualizes the solution as a PNG image.
 
+# VIDEO DEMO: 
+
 ## Features
 
 - Solve mazes using DFS (stack) and BFS (queue)
